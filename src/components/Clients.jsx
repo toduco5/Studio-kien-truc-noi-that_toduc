@@ -22,7 +22,7 @@ export default function Clients() {
             fadeEffect={{ crossFade: true }}
             speed={1000}
             grabCursor={true}
-            autoplay={{ delay: 2500, disableOnInteraction: false }}
+            autoplay={{ delay: 1500, disableOnInteraction: false }}
             loop={true}
             centeredSlides={true}
             navigation={{

@@ -46,19 +46,19 @@ export default function Footer() {
         <div className="footer__bottom">
           <div className="footer__info">
             <address>
-              88 Lê Lợi, Quận 1, TP.HCM<br />
-              0909 123 456<br />
-              hello@kientruc.studio
+              Thanh Oai, Hà Nội, Việt Nam<br />
+              (+84) 332 318 460<br />
+              tminhduc1304@gmail.com
             </address>
           </div>
           <div className="footer__social">
             <span>Follow us:</span>
             <div className="social__links">
-              <a href="#">📘 Facebook</a>
+              <a href="https://www.facebook.com/to.uc.283490/about?locale=vi_VN">📘 Facebook</a>
               <a href="#">📷 Instagram</a>
               <a href="#">📌 Pinterest</a>
               <a href="#">💼 LinkedIn</a>
-              <a href="#">🎵 TikTok</a>
+              <a href="https://www.tiktok.com/vi-VN/">🎵 TikTok</a>
             </div>
           </div>
         </div>

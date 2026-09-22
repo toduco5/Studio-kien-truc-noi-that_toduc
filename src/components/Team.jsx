@@ -6,7 +6,7 @@ export default function Team() {
     <section id="team" className="team">
       <div className="container">
         <span className="section-tag">Đội ngũ</span>
-        <h2 className="section-title">Những tâm tài tạo nên không gian</h2>
+        <h2 className="section-title">Các thành viên của đội ngũ</h2>
         <div className="team__grid">
           {team.map((t) => (
             <div key={t.name} className="team-member">

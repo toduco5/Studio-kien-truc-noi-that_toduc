@@ -160,27 +160,27 @@ export const team = [
 export const clients = [
   {
     name: "Vinhomes",
-    image: "https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?w=200&q=80",
+    image: "https://i.pinimg.com/736x/d8/68/f3/d868f3401cae5f5875b86093685d5ca1.jpg",
   },
   {
     name: "Novaland",
-    image: "https://images.unsplash.com/photo-1600047509807-ba8f99d2cdde?w=200&q=80",
+    image: "https://th.bing.com/th/id/OIP.b79S0HBsHdrYRR4B9TewXwHaE8?r=0&o=7rm=3&rs=1&pid=ImgDetMain&o=7&rm=3",
   },
   {
     name: "Bảo Sơn Group",
-    image: "https://images.unsplash.com/photo-1566073771259-6a8506099945?w=200&q=80",
+    image: "https://gkg.com.vn/wp-content/uploads/2020/03/logo-baoson-group.png",
   },
   {
     name: "Meridian Hotels",
-    image: "https://images.unsplash.com/photo-1566073771259-6a8506099945?w=200&q=80",
+    image: "https://media.gettyimages.com/id/623631272/photo/a-picture-taken-on-november-16-2016-in-paris-shows-the-entrance-of-the-meridien-etoile-hotel.jpg?s=612x612&w=gi&k=20&c=Ye0NymdTRaOYFNVr6h0C0yxGLDiQS1vzh815hxzWy4o=",
   },
   {
     name: "Central Retail",
-    image: "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=200&q=80",
+    image: "https://tse1.mm.bing.net/th/id/OIP.1eY9CFroJDQS9sG3htKycwAAAA?r=0&rs=1&pid=ImgDetMain&o=7&rm=3",
   },
   {
     name: "Sun Group",
-    image: "https://images.unsplash.com/photo-1583394838336-acd977736f90?w=200&q=80",
+    image: "https://alocanhosg.com/wp-content/uploads/2021/04/ta-p-doa-n-ma-t-tro-i-sun-group-li-ch-su-xa-y-du-ng-va-pha-t-trie-n.png",
   },
 ];
 
