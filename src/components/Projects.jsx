@@ -7,7 +7,7 @@ export default function Projects() {
       <div className="container">
         <span className="section-tag">Dự án tiêu biểu</span>
         <h2 className="section-title">Dự án đã hoàn thành</h2>
-        <p className="section-desc">Chọn xem dự án theo loại hình hoặc địa điểm</p>
+        <p className="section-desc" >Xem dự án theo loại hình hoặc địa điểm</p>
         <div className="projects__filter">
           <button className="filter-btn active" data-filter="all">Tất cả</button>
           {["Kiến trúc nhà ở", "Thương mại", "Khách sạn", "Căn hộ", "Nhà phố", "Spa"].map((cat) => (
