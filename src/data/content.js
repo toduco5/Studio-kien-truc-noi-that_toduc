@@ -195,7 +195,7 @@ export const testimonials = [
     name: "Anh Tô Đức",
     role: "CEO TD-group",
     text: "Không gian làm việc họp hành thiết kế KIẾN TRÚC đã nâng cao năng suất và tinh thần đội ngũ. Một quyết định đầu tư thông minh.",
-    image: "/public/image/anh1.jpg",
+    image: "/image/anh1.jpg",
   },
   {
     name: "Anh Oner",
