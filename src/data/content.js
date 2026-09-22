@@ -149,10 +149,10 @@ export const team = [
     desc: "Đảm bảo thi công đúng tiến độ và chất lượng.",
   },
   {
-    name: "Faker",
-    role: "Nhà thiết kế cảnh quan",
+    name: "Tô Đức",
+    role: "CEO & Giám đốc sáng tạo",
     exp: "12 năm kinh nghiệm",
-    image: "https://i.pinimg.com/736x/62/f2/eb/62f2eb656b7478b91b889a5d6550c3de.jpg",
+    image: "/image/anh1.jpg",
     desc: "Chuyên gia về thiết kế không gian xanh và cảnh quan.",
   },
 ];
