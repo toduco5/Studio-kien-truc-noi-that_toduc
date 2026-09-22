@@ -3,7 +3,9 @@
 > Studio kiến trúc & nội thất cao cấp - Built with React + Vite
 
 ## 🚀 Chạy dự án
-
+link vecel tham khảo dự án : ```bash
+ https://studio-kien-truc-noi-that-toduc-56b.vercel.app/#hero 
+ ```
 ### 1. Cài đặt dependencies
 
 ```bash
